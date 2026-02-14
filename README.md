@@ -1,4 +1,4 @@
-![A-PANEL Preview](images/screenshot.png)
+![A-PANEL Preview](screenshot.png)
     
     ##A-PANEL v5.8 PRO STABLE 🚀##
 
